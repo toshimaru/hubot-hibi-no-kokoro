@@ -1,0 +1,26 @@
+{
+  "name": "hubot-hibi-no-kokoro",
+  "version": "0.0.1",
+  "description": "日々努力！謙虚に吸収！出会いに感謝！今日も一日素直な心でありがとうの気持ちを忘れない！",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toshimaru/hubot-.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hibi"
+  ],
+  "author": "toshimaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toshimaru//issues"
+  },
+  "homepage": "https://github.com/toshimaru/hubot-",
+  "dependencies": {
+  }
+}
