@@ -12,4 +12,5 @@
 
 ```
 hubot 日々
+hubot hibi
 ```

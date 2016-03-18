@@ -3,6 +3,7 @@
 #
 # Commands:
 #   hubot 日々
+#   hubot hibi
 #
 # Author:
 #   - toshimaru
